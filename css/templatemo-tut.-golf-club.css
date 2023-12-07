@@ -49,6 +49,9 @@ body {
   font-family: var(--body-font-family); 
 }
 
+img{
+filter: none !important;
+}
 
 /*---------------------------------------
   TYPOGRAPHY               
